@@ -8,6 +8,11 @@
   width: 80%;
 }
 
+.movies .movie__link {
+  display: contents;
+  text-decoration: none;
+}
+
 .movies .movie {
   width: 45%;
   background-color: white;

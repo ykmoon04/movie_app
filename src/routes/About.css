@@ -1,0 +1,10 @@
+.about .about__text {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 20px;
+}
+
+.about {
+  display: flex;
+  align-items: center;
+  justify-self: center;
+}
